@@ -1,0 +1,78 @@
+.details-container {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    justify-content: center; 
+    border: 1px solid black; 
+    margin: auto;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+}
+
+.details-title {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.details-image {
+    width: 80%;
+    height: 400px;
+}
+
+.details-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.details-description {
+    width: 80%;
+    text-align: justify;
+}
+
+.details-best-price {
+    width: 80%;
+    border: 1px solid black;
+    display: flex; 
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+}
+
+.details-deals-container {
+    width: 80%;
+    display: flex; 
+    flex-direction: row;
+    margin-top: 10px;
+    justify-content: space-between;
+    border: 1px solid black;
+    align-items: center; 
+    border-radius: 5px;
+    padding: 10px;
+    padding: 5px;
+}
+
+.details-deals-row-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.details-deals-column-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 5px;
+}
+
+.details-videos-title-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 5px;
+}

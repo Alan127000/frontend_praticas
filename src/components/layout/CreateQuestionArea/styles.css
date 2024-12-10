@@ -1,0 +1,11 @@
+.question-area {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    align-items: center;
+}

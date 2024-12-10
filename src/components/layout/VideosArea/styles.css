@@ -1,0 +1,9 @@
+.videos-area{
+    display: grid;
+    width: 70%;
+    border: 1px solid red;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding-bottom: 10px;
+    transition-duration: 0.3s;
+}

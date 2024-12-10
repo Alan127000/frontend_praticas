@@ -1,0 +1,7 @@
+.filters-area {
+    width: 22%;
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+    padding: 10px;
+}

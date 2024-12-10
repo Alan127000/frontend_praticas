@@ -1,0 +1,25 @@
+.wish-list-inline {
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    margin: auto;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    align-items: center;
+    padding: 10px;
+}
+
+.wish-list-inline-around {
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    margin: auto;
+    justify-content: space-around;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    align-items: center;
+    padding: 10px;
+}

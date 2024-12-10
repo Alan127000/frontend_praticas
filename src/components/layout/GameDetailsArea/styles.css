@@ -1,0 +1,8 @@
+.game-details-area {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    padding: 10px;
+}

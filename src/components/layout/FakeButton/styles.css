@@ -1,0 +1,94 @@
+.normal {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 5px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    color: #485fc7;
+    border: 1px solid #485fc7;
+}
+
+.normal:hover {
+    color: #ffffff;
+    background-color: #485fc7;
+}
+
+.active {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 5px;
+    height: 40px;
+    border-radius: 2px;
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #485fc7;
+    border: 1px solid #485fc7;
+}
+
+.is-red {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 5px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: #ff0000;
+    border: 1px solid #ff0000;
+}
+
+.is-red:hover {
+    color: #ffffff;
+    background-color: #ff0000;
+}
+
+.is-blue {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 5px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: #485fc7;
+    border: 1px solid #485fc7;
+}
+
+.is-blue:hover {
+    color: #ffffff;
+    background-color: #485fc7;
+}
+
+.is-yellow {
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 5px;
+    height: 40px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: orange;
+    border: 1px solid orange;
+}
+
+.is-yellow:hover {
+    color: #ffffff;
+    background-color: orange;
+}
